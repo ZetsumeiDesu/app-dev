@@ -16,4 +16,4 @@ My first repository
 **3. Yahari Ore No Seishun**
 >*The pragmatic Hachiman Hikigaya and beautiful Yukino Yukinoshita, who despite their varying personalities and ideals, offers help and advice to others as part of their school's Service Club, assisted by the cheerful and friendly Yui Yuigahama.*
 
-![alt text](yahaririririririr.jpg)
+![alt text](yaharii.jpg)
